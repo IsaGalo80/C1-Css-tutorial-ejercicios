@@ -1,1 +1,29 @@
+body {
+	background-image: url("../../.learn/assets/background-vertical.jpg?raw=true");
+	background-repeat: repeat-y;
+	padding-left: 20px;
+}
+.font {
+	font-family: "Times New Roman", Times, serif;
+}
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	color: red;
+	/* text-align: center; */
+}
+h2 {
+	text-decoration: underline;
+	padding: 5px;
+}
+#id1 {
+	background-color: rgba(red, green, blue, alpha(0.2));
+}
+a {
+	text-anchor: href= "https://www.youtube.com/watch?v=WEgWMOzQ8IE";
+	color: green;
+	text-decoration: none;
+}
+.parrafo {
+	background-color: opacity 1;
+}
 /* add your styles here */
